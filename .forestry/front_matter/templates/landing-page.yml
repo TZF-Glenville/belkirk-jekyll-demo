@@ -78,6 +78,20 @@ fields:
   type: text
   hidden: true
   default: home
+- name: mj
+  type: select
+  default: ''
+  config:
+    required: true
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  showOnly:
+    field: show_news
+  label: mj
 pages:
 - g.md
 - index.md

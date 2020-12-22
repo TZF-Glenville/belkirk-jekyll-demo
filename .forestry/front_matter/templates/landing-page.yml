@@ -93,5 +93,4 @@ fields:
     field: show_news
   label: mj
 pages:
-- g.md
 - index.md

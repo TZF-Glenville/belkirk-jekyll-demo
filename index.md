@@ -7,7 +7,13 @@ partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
-services: []
+services:
+- description: ''
+  icon: ''
+  heading: ''
+- heading: ''
+  description: ''
+  icon: ''
 sub_heading: HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 textline: |
   Belkirk College of Engineering
@@ -18,6 +24,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+mj: ''
 menu:
   navigation:
     identifier: _index
